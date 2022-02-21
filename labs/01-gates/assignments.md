@@ -1,5 +1,4 @@
 # Lab 1: YOUR_FIRSTNAME LASTNAME
-# HELLO WORLD 
 ### De Morgan's laws
 
 1. Equations of all three versions of logic function f(c,b,a):
@@ -12,8 +11,8 @@
 architecture dataflow of demorgan is
 begin
     f_org_o  <= (not(b_i) and a_i) or (not(c_i) and not(b_i));
-    f_nand_o <= (a_i nand b_i) or (b_i nand c_i) or (a_i nand c_i);
-    f_nor_o  <= (b_i nor a_i) and (b_i nor c_i) and (a_i nor c_i);
+    f_nand_o <= ((a_i nand not(b_i)) nand (not(b_i) nand not(c_i)));
+    f_nor_o  <= (b_i nor (a_i nor not(c_i)));
 end architecture dataflow;
 ```
 
@@ -21,14 +20,14 @@ end architecture dataflow;
 
 | **c** | **b** |**a** | **f(c,b,a)_ORG** | **f(c,b,a)_NAND** | **f(c,b,a)_NOR** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 0 | 0 | 0 |  |  |  |
-| 0 | 0 | 1 |  |  |  |
-| 0 | 1 | 0 |  |  |  |
-| 0 | 1 | 1 |  |  |  |
-| 1 | 0 | 0 |  |  |  |
-| 1 | 0 | 1 |  |  |  |
-| 1 | 1 | 0 |  |  |  |
-| 1 | 1 | 1 |  |  |  |
+| 0 | 0 | 0 | 1 | 1 | 1 |
+| 0 | 0 | 1 | 1 | 1 | 1 |
+| 0 | 1 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 1 | 1 | 1 |
+| 1 | 1 | 0 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 0 | 0 | 0 |
 
 ### Distributive laws
 
