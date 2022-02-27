@@ -81,8 +81,8 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   ![your figure](https://github.com/hedweger/digital-electronics-1/blob/main/labs/02-logic/Screenshot%202022-02-27%20at%2012.56.00.png)
 
 3. Link to your public EDA Playground example:
 
-   [](https://www.edaplayground.com/x/8tsV)
+   ![EDA](https://www.edaplayground.com/x/8tsV)
