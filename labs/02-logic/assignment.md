@@ -85,4 +85,4 @@
 
 3. Link to your public EDA Playground example:
 
-   ![EDA](https://www.edaplayground.com/x/8tsV)
+   [EDA](https://www.edaplayground.com/x/8tsV)
