@@ -28,16 +28,16 @@
 
    Greater than:
 
-   ![K-maps](02-logic/1_Kmap.jpeg)
+   ![K-maps](https://github.com/hedweger/digital-electronics-1/blob/main/labs/02-logic/1_Kmap.jpeg)
 
    Less than:
 
-   ![K-maps](02-logic/2_Kmap.jpeg)
+   ![K-maps](https://github.com/hedweger/digital-electronics-1/blob/main/labs/02-logic/2_Kmap.jpeg)
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic function](02-logic/SOP.jpeg)
-   ![Logic function](02-logic/POS.jpeg)
+   ![Logic function](https://github.com/hedweger/digital-electronics-1/blob/main/labs/02-logic/SOP.jpeg)
+   ![Logic function](https://github.com/hedweger/digital-electronics-1/blob/main/labs/02-logic/POS.jpeg)
 
 ### 4-bit comparator
 
