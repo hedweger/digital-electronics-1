@@ -1,4 +1,4 @@
-# Lab 4: YOUR_FIRSTNAME LASTNAME
+   # Lab 4: Tomáš Hadwiger
 
 
 | **Hex** | **Inputs** | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
