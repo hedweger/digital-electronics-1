@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Mar  3 16:05:50 2022
+# Process ID: 10644
+# Current directory: D:/Documents/New folder/de-1/digital-electronics-1/labs/04-segment/New folder/display
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12100 D:\Documents\New folder\de-1\digital-electronics-1\labs\04-segment\New folder\display\display.xpr
+# Log file: D:/Documents/New folder/de-1/digital-electronics-1/labs/04-segment/New folder/display/vivado.log
+# Journal file: D:/Documents/New folder/de-1/digital-electronics-1/labs/04-segment/New folder/display\vivado.jou
+#-----------------------------------------------------------
+start_guopopen_project {D:/Documents/New folder/de-1/digital-electronics-1/labs/04-segment/New folder/display/display.xpr}
