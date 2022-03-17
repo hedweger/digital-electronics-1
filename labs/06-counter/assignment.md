@@ -4,7 +4,7 @@
 
 ![empty](https://digilent.com/reference/_media/reference/programmable-logic/nexys-a7/n4r.png?w=500&tok=1995c2)
 
-![empty](https://github.com/hedweger/digital-electronics-1/blob/main/labs/CodeCogsEqn.png)
+![empty](https://github.com/hedweger/digital-electronics-1/blob/main/labs/06-counter/CodeCogsEqn.png)
 
 | **Time interval** | **Number of clk periods** | **Number of clk periods in hex** | **Number of clk periods in binary** |
    | :-: | :-: | :-: | :-: |
