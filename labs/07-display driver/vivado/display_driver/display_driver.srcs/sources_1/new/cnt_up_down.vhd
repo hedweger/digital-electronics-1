@@ -55,7 +55,7 @@ begin
                 -- TEST COUNTER DIRECTION HERE
                 if (cnt_up_i = '1') then
                     s_cnt_local <= s_cnt_local + 1;
-                elsif (cnt_up_i = '0') then
+                else
                     s_cnt_local <= s_cnt_local - 1;
                 end if;              
             end if;
