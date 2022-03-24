@@ -66,11 +66,11 @@ begin
     p_reset_gen : process
     begin
         s_reset <= '0';
-        wait for 28 ns;
+        wait for 0 ns;
         
         -- Reset activated
         s_reset <= '1';
-        wait for 153 ns;
+        wait for 20 ns;
 
         -- Reset deactivated
         s_reset <= '0';
