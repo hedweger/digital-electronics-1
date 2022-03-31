@@ -8,7 +8,7 @@
 | LD16 | N15, M16, R12 | `1,0,0` | `1,0,1` | `0,0,1` |
 | LD17 | N16, M11, G14 | `1,0,0` | `1,0,1` | `0,0,1` |
 
-![your figure](/Images/Pmod.png)
+![your figure](Images/Pmod.png)
 
 ### Traffic light controller
 
