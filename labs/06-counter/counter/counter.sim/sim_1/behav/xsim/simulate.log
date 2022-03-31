@@ -1,0 +1,6 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Note: Stimulus process started
+Time: 0 ps  Iteration: 0  Process: /tb_clock_enable/p_stimulus  File: D:/Documents/xhadwi02/de-1/digital-electronics-1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_clock_enable.vhd
+Note: Stimulus process finished
+Time: 0 ps  Iteration: 0  Process: /tb_clock_enable/p_stimulus  File: D:/Documents/xhadwi02/de-1/digital-electronics-1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_clock_enable.vhd
